@@ -1,7 +1,7 @@
 {
     "name": "evinkuraga/tmdb-api",
     "type": "library",
-    "description": "PHP wrapper for TMDB (TheMovieDatabase) API v3. Supports two types of approaches, one modelled with repositories, models and factories. And the other by simple array access to RAW data from The Movie Database.",
+    "description": "This is a fork of the package php-tmdb/api. Instead of waiting for the maintainer to update the php-tmdb/api package to reflect the latest changes from the API, I've decided to fix these. These packages are actively used for http://flixi.com, which means I will most likely maintain these packages with the latest changes that TMDB implements.",
     "homepage": "https://github.com/evinkuraga/api",
     "keywords": ["tmdb", "api", "php", "wrapper", "movie", "tv", "tv show", "tvdb"],
     "license": "MIT",
